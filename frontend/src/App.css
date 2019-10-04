@@ -1,0 +1,208 @@
+/* .App {
+  text-align: center;
+} */
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+} */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+/* .nav-links {
+  height: 0;
+  overflow: hidden;
+  transition: var(--mainTransition);
+  list-style-type: none;
+} */
+
+img {
+  width: 20%;
+}
+
+.text-right {
+  float: right;
+  margin-right: 12px;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #05ffb0;
+  height: 100px;
+}
+
+.mission-container {
+  padding: 64px;
+  text-align: center;
+}
+
+.div-show {
+  padding: 58px;
+  text-align: center;
+  background-color: #05ffb0;
+}
+
+.d-block-w-100 {
+  position: relative;
+  top: -75px;
+  height: 300px;
+  width: auto;
+  overflow: hidden;
+}
+
+.ctct-container {
+  position: relative;
+  padding: 60px;
+  /* width: fit-content;
+  height: fit-content; */
+  height: 400px;
+  /* background-color: gray; */
+}
+.ctct-col-tu {
+  position: absolute;
+  right: 40px;
+  top: 20px;
+  /* bottom: 10px; */
+  padding: 5px;
+  /* width: 270px;
+  height: 270px; */
+  /* background-color: #333; */
+  /* border: none;
+  box-sizing: inherit;
+  box-shadow: 3px 3px 4px 4px; */
+  /* width: fit-content;
+  height: fit-content; */
+}
+.ctct-lbl {
+  font-size: 28px;
+}
+.foot-div {
+  background-color: #05ffb0;
+  padding: 20px;
+  text-align: center;
+  height: 300px;
+}
+.ft {
+  color: white;
+}
+.div-logo {
+  padding: 10px;
+}
+.logo-tmp {
+  background-color: #05ffb0;
+}
+.div-entrp-contain {
+  text-align: center;
+  padding: 20px;
+  
+}
+.content-entrp-header {
+  text-align: center;
+}
+.div-card {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.div-reglog {
+  float: right;
+}
+.div-signup {
+  text-align: center;
+}
+.div-login {
+  text-align: center;
+}
+.div-fil {
+  text-align: center;
+}
+.div-news {
+  text-align: center;
+}
+/* .div-card {
+  display: inline-block;
+  *display: inline;
+} */
+/* .content-entrp {
+  text-align: center;
+  column-count: 3;
+} */
+/* .info-lbl {
+  text-align: left;
+} */
+/* .info-fil {
+  display: inline-block;
+  box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.2);
+  width: 23%;
+  text-align: right;
+} */
+
+/* label {
+  padding: 10px 10px 10px 0;
+  display: inline-block;
+} */
+
+/* .info-type {
+  padding: 10px;
+  border-bottom-style: solid;
+} */
+
+
+
